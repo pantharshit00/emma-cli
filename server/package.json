@@ -30,7 +30,7 @@
     "husky": "3.1.0",
     "lerna": "3.19.0",
     "nock": "^11.7.0",
-    "prisma2": "2.0.0-preview016.2",
+    "prisma2": "2.0.0-preview018",
     "supertest": "^4.0.2",
     "ts-jest": "24.2.0",
     "ts-node": "8.5.4",
